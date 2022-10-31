@@ -1,0 +1,18 @@
+body{
+    font-family: 'Lobster', cursive;
+    height: 100vh;
+    background-color: yellow;
+    background-image: linear-gradient(-90deg, yellow, lightblue, indigo);
+}
+
+body div{
+    height: 100%;
+}
+
+:root{
+    --color:black;
+}
+
+#user-informations{
+    color: var(--color);
+}
